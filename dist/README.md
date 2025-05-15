@@ -2,7 +2,7 @@
 
 A modern Python GUI tool that helps you **bulk rename files** in a folder with a custom prefix and timestamp. Built with `customtkinter`, it includes a live preview box, undo functionality, and a progress bar for a smooth user experience.
 
-![screenshot](screenshot/screenshot.png) 
+![screenshot](../screenshot/screenshot.PNG) 
 ---
 
 ## ✨ Features
