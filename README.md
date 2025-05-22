@@ -19,6 +19,21 @@ A modern Python GUI tool that helps you **bulk rename files** in a folder with a
 
 ---
 
+## 🧠 What I Learned Building This Project
+
+This was more than just a renamer — it was a **personal milestone** in my journey as a software engineer:
+
+- 🧰 Learned how to structure Python GUI applications using `customtkinter`
+- 📦 Applied **object-oriented design** to organize logic clearly
+- ⚙️ Improved understanding of **file system automation** with `os`, `datetime`, and `shutil`
+- 📊 Implemented a real-time **progress bar** and preview system
+- ❌ Built a **safe undo feature** using file backups and error handling
+- 🧪 Practiced **user flow planning**, confirmations, and error-proofing
+
+> 🔥 This project helped me gain **hands-on experience with GUI programming**, user-centered design, and real-world file operations — all without relying on frameworks.
+
+---
+
 ## 🛠️ Installation
 
 ### 1. Clone the repository
@@ -51,21 +66,25 @@ python file_renamer.py
 
 * To undo, simply click Undo Rename
 
-### 5. Future Features (Planned)
-Drag & drop support
+### 5. 🔭 Future Enhancements
+🖱️ Drag & drop support
 
-Save prefix history
+💡 Save prefix history for quick reuse
 
-Light/Dark theme toggle
+🌙 Light/Dark mode toggle
 
-Export rename log to file
+📝 Export rename logs to .txt
+
+🔄 Recursively rename in subfolders
 
 ## 👨‍💻 Author
 Supun Wickramarachchi
-Aspiring Software Engineer & Automation Enthusiast
+Aspiring Software Engineer · Automation & Space Tech Enthusiast
 🇱🇰 Sri Lanka
+📫 supun9718wic@gmail.com
+🔗 GitHub Profile
 
-Dreaming to build systems for space and robotics 🚀
+✨ Dreaming to build software for robotics, intelligent systems, and space missions.
 
 ## 📃 License
 This project is open source and free to use under the MIT License.
